@@ -1,16 +1,21 @@
-import reactLogo from './assets/react.svg'
-import './App.css'
+import { Outlet } from 'react-router-dom';
+import NavTabs from './components/navigation';
+import Footer from './components/footer';
+import Header from './components/header';
+import './App.css';
+
 
 function App() {
-
   return (
     <>
-      <div>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Matheus React Portfolio</h1>
+    <Header />
+    <div>
+      <NavTabs />
+      <main className="mx-3">
+        <Outlet />
+      </main>
+    </div>   
+    <Footer />
     </>
   )
 }

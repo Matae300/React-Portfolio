@@ -2,14 +2,8 @@ export default function About() {
   return (
     <div>
       <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+      <p>My name is Matheus Almeida. I am from Connecticut, USA, and my family hails from the vibrant country of Brazil. Growing up in a multicultural environment has enriched my perspective on life and fueled my passion for exploring different cultures and traditions. Beyond my cultural background, I am a dedicated film enthusiast, constantly immersing myself in the world of cinema and exploring various genres from classics to contemporary masterpieces.</p>
+      <p>Aside from my love for cinema, I find solace and excitement in the realm of combat sports. Whether its the adrenaline-pumping action of MMA or the disciplined artistry of Muay Thai, I am drawn to the raw intensity and technical prowess displayed by athletes in these disciplines. In addition to combat sports, I maintain a strong commitment to health and fitness, spending my free time at the gym, pushing my physical limits and embracing the challenges of weightlifting.</p>
     </div>
   );
 }
