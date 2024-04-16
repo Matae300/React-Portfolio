@@ -1,6 +1,7 @@
+import '../styles/Resume.css'
 export default function Resume() {
   return (
-    <div>
+    <div className="resume-container">
       <h1>Resume</h1>
      <h3>Front End:</h3>
      <ul>
@@ -14,6 +15,8 @@ export default function Resume() {
      <ul>
       <li>Express Js</li>
       <li>Node Js</li>
+      <li>SQL</li>
+      <li>NoSQL</li>
       <li>PWA</li>
      </ul>
     </div>
