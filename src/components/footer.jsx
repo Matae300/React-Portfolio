@@ -1,11 +1,12 @@
 import '../styles/Footer.css'
 function Footer() {
   return(
-  <footer>
-  <div>
-  <p>&copy; 2024 React Portfolio. All rights reserved.</p>
-  </div>
-  </footer>
+<footer class="footer-container">
+    <div>
+        <a href="https://github.com/Matae300" target='_blank'>🌐</a>
+        <a href="https://www.linkedin.com" target='_blank'>📝</a>
+    </div>
+</footer>
 
 );
 }
