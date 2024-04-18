@@ -25,7 +25,7 @@ export default function Contact() {
 
   return (
     <div className='contact-container'>
-      <h1>Contact Page</h1>
+      <h1 className='contact-h1'>Contact Page</h1>
       <form onSubmit={handleSubmit}>
         {error && <div className="error-message">{error}</div>}
         <input

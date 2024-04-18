@@ -1,8 +1,9 @@
 .portfolio {
+  font-family: "Jersey 15", sans-serif;
+  font-size: 50px;
   color: white;
   padding-bottom: 20px;
 }
-
 
 .work {
   display: grid;

@@ -7,14 +7,15 @@
   color: #fff; 
 }
 
+.jersey-15-regular {
+  font-family: "Jersey 15", sans-serif;
+  font-size: 40px;
+  margin: 0;
+}
+
 .logo {
   width: 50px; 
   height: auto;
   margin-right: 10px;
 }
 
-.header-container h1 {
-  font-size: 24px;
-  font-weight: bold;
-  margin: 0;
-}

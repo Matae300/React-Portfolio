@@ -1,11 +1,14 @@
-
 .navbar {
+  font-family: "Jersey 15", sans-serif;
+  border-radius: 20px;
   background-color: #1a1919;
+  font-size: larger;
   color: #fff;
   padding: 1rem;
 }
 
 .nav-item  {
+  font-size: 30px;
   list-style-type: none;
   display: flex;
   justify-content: space-around;

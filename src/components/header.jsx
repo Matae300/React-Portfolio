@@ -5,7 +5,7 @@ function Header() {
   return(
     <div className='header-container'>
       <img src={reactLogo} className='logo' alt="React logo" />
-      <h1>Matheus React Portfolio</h1>
+      <h1 className='jersey-15-regular'>Matheus React Portfolio</h1>
   </div>
 
 );
