@@ -3,6 +3,7 @@ import project1 from '../assets/project1.jpeg'
 import portfolio from '../assets/HTML.png'
 import Weather from '../assets/Weather.jpeg'
 import Password from '../assets/Password.jpeg'
+import Javascript from '../assets/Javascript.jpeg'
 
 import '../styles/Portfolio.css'
 
@@ -39,6 +40,12 @@ export default function Portfolio() {
         <a href='https://github.com/Matae300/Module-3-Challenge' rel="noreferrer" target="_blank">
         <img src={Password} className="app-image" alt="Movie Mingle Project" />
         <p>Password Generator</p>
+        </a>
+      </div>
+      <div className='work-item'>
+        <a href='https://github.com/Matae300/Module-3-Challenge' rel="noreferrer" target="_blank">
+        <img src={Javascript} className="app-image" alt="Movie Mingle Project" />
+        <p>JavaScript Quiz</p>
         </a>
       </div>
     </div>
