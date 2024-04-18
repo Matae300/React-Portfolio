@@ -43,7 +43,7 @@ export default function Portfolio() {
         </a>
       </div>
       <div className='work-item'>
-        <a href='https://github.com/Matae300/Module-3-Challenge' rel="noreferrer" target="_blank">
+        <a href='https://github.com/Matae300/challenge-4' rel="noreferrer" target="_blank">
         <img src={Javascript} className="app-image" alt="Movie Mingle Project" />
         <p>JavaScript Quiz</p>
         </a>
