@@ -1,5 +1,5 @@
-import project2 from '../assets/project2.jpeg'
-import project1 from '../assets/project1.jpeg'
+import project2 from '../assets/Project2.jpeg'
+import project1 from '../assets/Project1.jpeg'
 import portfolio from '../assets/HTML.png'
 import Weather from '../assets/Weather.jpeg'
 import Password from '../assets/Password.jpeg'
