@@ -35,6 +35,10 @@ Explore the developer's projects in the Portfolio section and click on the links
 Fill out the contact form in the Contact section and submit it.
 Download the developer's resume from the Resume section.
 
+## Link to deployed page
+
+https://main--matheus-react-portfolio.netlify.app/
+
 ## Credits
 
 This portfolio was created by Matheus Almeida. You can find more of their work on GitHub and LinkedIn.
