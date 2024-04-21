@@ -4,6 +4,8 @@
 
 This project is a single-page application portfolio for a web developer. It includes sections for About Me, Portfolio, Contact, and Resume, along with a header, footer, and navigation for easy navigation and interaction.
 
+![screenshot](./src/assets/Screenshot.jpeg)
+
 ## Features
 
 Header: Displays the developer's name and navigation titles corresponding to different sections of the portfolio.
